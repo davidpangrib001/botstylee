@@ -8,10 +8,10 @@ import {
 } from 'url'
 
 global.owner = [
-	//  ['6281234288573'],
-	['436508448617777'],
-	['6282331033919'],
-	['62895368900456', 'Benniismail?', true]
+	['6282128475388', 'Bot', true],
+	// ['436508448617777'],
+	['0'],
+	['6282160268332', 'Davitt?', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -28,7 +28,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
 	// 'https://website': 'apikey'
-	'https://api.xteam.xyz': 'd90a9e986e18778b',
+	'https://api.xteam.xyz': 'cristian9407',
 	'https://zahirr-web.herokuapp.com': 'zahirgans',
 	'https://api.zeks.xyz': 'apivinz',
 	'https://pencarikode.xyz': 'pais',
@@ -36,9 +36,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ig : Beni_230\'Benniismael'
-global.author = 'BOT BY BENNIISMAEL & ghost'
-global.nomorown = '6282331033919'
+global.packname = '𝗢𝗻𝗲 𝗕𝗼𝘁𝘇\n\nCreate You Sticker!\n\nwa.me/6282128475388' // wm sticker
+global.author = ''
+global.nomorown = '6282160268332'
 global.multiplier = 69 // The higher, The harder levelup
 
 global.rpg = {
