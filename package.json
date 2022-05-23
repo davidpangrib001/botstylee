@@ -1,6 +1,6 @@
 {
-  "name": "ok",
-  "version": "1.0.0",
+  "name": "One Botz",
+  "version": "4.44-1",
   "description": "Customizable WhatsApp Bot",
   "main": "index.js",
   "type": "module",
@@ -17,7 +17,7 @@
   "keywords": [
     "heko"
   ],
-  "author": "gweh",
+  "author": "David",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
